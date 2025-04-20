@@ -1,0 +1,6 @@
+venv: llm-application
+library:
+- python-dotenv 
+- langchain-openai (openai)
+- langchain-upstage (upstage)
+- langchain-community (ollama)
